@@ -1,5 +1,21 @@
 [
   {
+    "trend_arrow": "FLAT", 
+    "system_time": "2017-05-18T04:53:03", 
+    "noise": 1, 
+    "direction": "Flat", 
+    "sgv": 63, 
+    "display_time": "2017-05-17T20:53:09", 
+    "date": 1495079589000.0, 
+    "dateString": "2017-05-17T20:53:09", 
+    "unfiltered": 78000, 
+    "filtered": 80848, 
+    "device": "openaps://indy-ex2/cgm", 
+    "rssi": 175, 
+    "type": "sgv", 
+    "glucose": 63
+  }, 
+  {
     "trend_arrow": "45_DOWN", 
     "system_time": "2017-05-18T04:43:03", 
     "noise": 1, 
