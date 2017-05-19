@@ -1,18 +1,1 @@
-[
-  {
-    "trend_arrow": "DOUBLE_UP", 
-    "display_time": "2017-05-19T07:38:06-07:00", 
-    "noise": 1, 
-    "direction": "DoubleUp", 
-    "system_time": "2017-05-19T13:26:50-07:00", 
-    "sgv": 134, 
-    "dateString": "2017-05-19T07:38:06-07:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 115936, 
-    "rssi": 185, 
-    "date": 1495204686000.0, 
-    "filtered": 94672, 
-    "type": "sgv", 
-    "glucose": 134
-  }
-]
+[]
