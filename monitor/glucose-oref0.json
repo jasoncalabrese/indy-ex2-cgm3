@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "system_time": "2017-05-19T21:01:49", 
+    "noise": 2, 
+    "direction": "NOT COMPUTABLE", 
+    "sgv": 79, 
+    "display_time": "2017-05-19T15:13:06", 
+    "date": 1495231986000.0, 
+    "dateString": "2017-05-19T15:13:06", 
+    "unfiltered": 72848, 
+    "filtered": 84784, 
+    "device": "openaps://indy-ex2/cgm", 
+    "rssi": 682, 
+    "type": "sgv", 
+    "glucose": 79
+  }
+]
