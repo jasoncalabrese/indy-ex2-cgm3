@@ -7,8 +7,8 @@
     "direction": "FortyFiveUp", 
     "sgv": 221, 
     "dateString": "2017-05-21T15:43:26-07:00", 
-    "date": 1495406606000, 
     "device": "openaps://indy-ex2/cgm", 
+    "date": 1495406606000, 
     "type": "sgv", 
     "glucose": 221
   }, 
@@ -20,11 +20,11 @@
     "direction": "FortyFiveUp", 
     "sgv": 215, 
     "dateString": "2017-05-21T15:43:26-07:00", 
-    "date": 1495406606000, 
-    "unfiltered": 211488, 
-    "filtered": 202496, 
     "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 211488, 
     "rssi": 419, 
+    "date": 1495406606000, 
+    "filtered": 202496, 
     "type": "sgv", 
     "glucose": 215
   }
